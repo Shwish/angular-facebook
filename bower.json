@@ -5,9 +5,7 @@
   "authors": [
     "Luis Carlos Osorio Jayk <luiscarlosjayk@gmail.com>"
   ],
-  "description": "First 3 numbers of the version match original source,\
-the last number is the shwish version number\n\n\
-An AngularJS module to take approach of the Facebook Javascript SDK.",
+  "description": "First 3 numbers of the version match original source, the last number is the shwish version number\n\nAn AngularJS module to take approach of the Facebook Javascript SDK.",
   "main": "lib/angular-facebook.js",
   "keywords": [
     "facebook",
